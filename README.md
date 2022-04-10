@@ -2,7 +2,7 @@
 - 📚 I’m interested in programming and learning new things
 - 🎹 I’m currently playing piano
 - 🌠 I’m am open to new opportunities
-- 🖥 My Stack: Swift, JavaScript, Python, C / C++
+- 🖥 My Stack: Swift, JavaScript, Python, C#, C / C++ & Unity
 - 💻 How to reach me www.immonenjanne.me
 
 <!---
