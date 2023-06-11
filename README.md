@@ -18,7 +18,7 @@ I'm a Business IT student from Laurea University of Applied Sciences with a deep
 
 ## 📫 How to reach me
 - Portfolio: [www.immonenjanne.com](http://www.immonenjanne.com)
-- LinkedIn: [Janne Immonen](https://www.linkedin.com/in/janne-immonen/)
+- LinkedIn: [Janne Immonen](https://www.linkedin.com/in/janneimmonen/)
 
 ## 📚 Past Experiences
 - Teatime Research Oy - Internship: Software testing, Video production, 3D Modeling
