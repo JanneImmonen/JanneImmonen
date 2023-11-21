@@ -17,7 +17,6 @@ I'm a Business IT student from Laurea University of Applied Sciences with a deep
 - C#, Python, JavaScript, Node.js, React
 
 ## 📫 How to reach me
-- Portfolio: [www.immonenjanne.com](http://www.immonenjanne.com)
 - LinkedIn: [Janne Immonen](https://www.linkedin.com/in/janneimmonen/)
 
 ## 📚 Past Experiences
