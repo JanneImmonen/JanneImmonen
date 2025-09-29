@@ -27,8 +27,3 @@ When I'm not coding or solving IT problems, I enjoy playing the piano, learning 
 - Teatime Research Oy - Internship: Software testing, Video production, 3D Modeling
 - Nitomani School Oy - Marketing Officer
 - Okmetic Oy - Production Process Worker
-
-## 🚀 Looking for New Opportunities
-As my current role concludes in April, I am actively seeking new opportunities in software development, data analytics, AI, and cloud technologies. I am eager to contribute to innovative projects that push the boundaries of technology and business intelligence.
-
-Let’s connect and explore how we can create impactful solutions together! 🚀
